@@ -1,6 +1,4 @@
-## hi there 👋
-
-i'm audrey. i love coding and dilly-dallying!
+hello there 👋
 
 <img src="https://github.com/user-attachments/assets/eb46ef77-5f67-4ebb-93f1-f179b02f06dc" alt="smiski_website" width="100"/>
 
