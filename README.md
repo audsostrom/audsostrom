@@ -1,8 +1,9 @@
 ## hi there 👋
 
-i'm audrey. i love coding and dilly-dallying! 😌
+i'm audrey. i love coding and dilly-dallying!
 
-<img src="https://github.com/user-attachments/assets/74ebfa6a-daff-418e-8f3a-42baf498574a" alt="smiski_website" width="100"/>
+<img src="https://github.com/user-attachments/assets/eb46ef77-5f67-4ebb-93f1-f179b02f06dc" alt="smiski_website" width="100"/>
+
 
 <!--
 **audsostrom/audsostrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
