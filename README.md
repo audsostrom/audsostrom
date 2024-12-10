@@ -1,6 +1,6 @@
 ## hi there 👋
 
-i love coding, dilly-dallying, and the trolls 3 movie
+i'm audrey. i love coding and dilly-dallying! 😌
 <!--
 **audsostrom/audsostrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
