@@ -1,5 +1,6 @@
-## Hi there 👋
+## hi there 👋
 
+i love coding, dilly-dallying, and the trolls 3 movie 🙂‍↕️
 <!--
 **audsostrom/audsostrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
